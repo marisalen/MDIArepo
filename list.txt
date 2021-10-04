@@ -1,2 +1,7 @@
+
 eggs
 bacon
+
+school supplies 
+notebook 
+markers
